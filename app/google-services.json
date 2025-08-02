@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "872359194076",
+    "firebase_url": "https://registration-form-68708-default-rtdb.firebaseio.com",
+    "project_id": "registration-form-68708",
+    "storage_bucket": "registration-form-68708.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872359194076:android:479af74e00ca6dce2ef319",
+        "android_client_info": {
+          "package_name": "com.example.hiltproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3OBUOWCkazwM4nSXgBt0VHvkTSFFOXSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
